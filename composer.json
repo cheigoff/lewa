@@ -1,0 +1,6 @@
+{
+    "name": "torr/project",
+    "description": "Описание вашего проекта",
+    "type": "project",
+    "require": {}
+}
